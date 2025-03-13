@@ -4,13 +4,12 @@
 
 ###
 
-<div align="center">
-  <h1 style="font-size: 30; font-weight: 700;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hello+World+%F0%9F%8C%8D%F0%9F%91%8B!;I%E2%80%99m+Kritika+Aggarwal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;A+coder+turning+ideas+into+reality;%F0%9F%9A%80+Building+awesome+things+!" alt="Typing SVG" />
-    </a>
-  </h1>
+<div align="center" style="font-size: 30px; font-weight: 700;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4800&pause=1000&color=FF007F&center=true&vCenter=true&width=600&height=80&lines=Hello+World+%F0%9F%8C%8D%F0%9F%91%8B!;I%E2%80%99m+Kritika+Aggarwal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;A+coder+turning+ideas+into+reality;%F0%9F%9A%80+Building+awesome+things+!" alt="Typing SVG" />
+  </a>
 </div>
+
 
 
 ###
