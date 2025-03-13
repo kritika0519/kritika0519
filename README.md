@@ -10,7 +10,7 @@
   </a>
 </div>
 
-
+---
 
 ###
 
@@ -21,6 +21,7 @@
 <p align="left">Hi there! 👋<br><br>🔭 I’m a student at Chitkara University, currently working as a Full Stack Developer.<br> 📚 I'm currently learning Blockchain and exploring Large Language Models (LLMs) alongside diving into Data Structures and Algorithms (DSA) in Java.<br>⚡ In my free time, I enjoy building innovative projects, enhancing my development skills, and staying updated with the latest tech trends.<br><br>Let's connect and explore the world of technology together! 🚀</p>
 
 ###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -69,6 +70,7 @@
 </div>
 
 ###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -86,10 +88,12 @@
 </div>
 
 ###
+---
 
 <img src="https://raw.githubusercontent.com/kritika0519/kritika0519/output/snake.svg" alt="Snake animation" />
 
 ###
+---
 
 <div align="center">
   <a href="www.linkedin.com/in/kritika-aggarwal-b598a7290" target="_blank">
